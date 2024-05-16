@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>Seja Bem-Vindo(a)</h1>
+
+<i>Fique a vontade para acessar meus repositórios, se tiver alguma dúvida pode me chamar pelo e-mail: <a href='mailto:st3lz3r@duck.com'>st3lz3r@duck.com</a>, ou abrir um merge request que logo lhe respondo...</i>
+
+<b>Não se esqueça de acessar meu <a href='http://st3lz3r.ddns.net:8080/'>site</a> e criar sua conta !!!<b>
 
 <!--
 **st3lz3r/st3lz3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
