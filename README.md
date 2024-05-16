@@ -2,6 +2,18 @@
 
 ![veio_bebado.gif](veio_bebado.gif)  
 
+<a>
+♜♞♝♚♛♝♞♜<br>
+♟♟♟♟♟♟♟♟<br>
+▓░▓░▓░▓░▓░▓░<br>
+░▓░▓░▓░▓░▓░▓<br>
+▓░▓░▓░▓░▓░▓░<br>
+░▓░▓░▓░▓░▓░▓<br>
+♙♙♙♙♙♙♙♙<br>
+♖♘♗♔♕♗♘♖<br>
+
+</a>
+
 <i>Fique a vontade para acessar meus repositórios, se tiver alguma dúvida pode me chamar pelo e-mail: <a href='mailto:st3lz3r@duck.com'>st3lz3r@duck.com</a>, ou abrir um merge request que logo lhe respondo...</i>  
 <b>Não se esqueça de acessar meu <a href='http://st3lz3r.ddns.net:8080/'>site</a> e criar sua conta !!!<b>
 
